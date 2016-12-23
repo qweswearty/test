@@ -1,0 +1,38 @@
+body{
+    background: #ffffff;
+    font: 14px sans-serif;
+    line-height: 1.5;
+}
+.content{
+    display: block;
+    width: 1024px;
+    margin: 0px auto;
+    background: #ffffff;
+    padding-top: 50px;
+}
+.content h1{
+    padding-left: 10px;
+    text-transform: uppercase;
+    font-size: 26px;
+}
+.content img{
+    margin: auto;
+    display: block;
+    border:1px solid #ccc;
+}
+.content hr{
+    color: #f2f2f2;
+}
+.about{
+    margin-left: 260px;
+    margin-right: 262px;
+}
+.part{
+    font-weight: bold;
+}
+ul, span{
+    padding-left: 36px;
+}
+.text{
+    padding: 0;
+}
